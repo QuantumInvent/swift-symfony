@@ -1,0 +1,16 @@
+{
+    "name": "quantuminvent/swift-symfony",
+    "description": "An extra layer to the Symfony 2 framework for RAD",
+    "require": {
+        "symfony/symfony": "2.6.*@dev",
+        "symfony/http-foundation": "2.6.*@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Achraf Soltani",
+            "email": "achraf.soltani@quantuminvent.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
