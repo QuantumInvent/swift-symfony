@@ -3,7 +3,8 @@
     "description": "An extra layer to the Symfony 2 framework for RAD",
     "require": {
         "symfony/symfony": "2.6.*@dev",
-        "symfony/http-foundation": "2.6.*@dev"
+        "symfony/http-foundation": "2.6.*@dev",
+        "catfan/medoo": "dev-master"
     },
     "license": "MIT",
     "authors": [
