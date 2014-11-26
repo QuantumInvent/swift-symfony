@@ -2,8 +2,8 @@
     "name": "quantuminvent/swift-symfony",
     "description": "An extra layer to the Symfony 2 framework for RAD",
     "require": {
-        "symfony/symfony": "2.6.*@dev",
-        "symfony/http-foundation": "2.6.*@dev",
+        "symfony/symfony": "2.5.*",
+        "symfony/http-foundation": "2.5.*",
         "catfan/medoo": "dev-master"
     },
     "license": "MIT",
